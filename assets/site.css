@@ -437,7 +437,7 @@ nav.prime a.active{color:var(--ink);background-size:100% 7px}
 @media (max-width:520px){.varv-disclaim{font-size:11px;padding:7px 12px}}
 
 
-/* ===== varv popup ===== */
+/* ===== Keep Pivoting popup ===== */
 
   /* Default resting state = HIDDEN & static. The visible state lives only under
      #varv-popup.is-open, so headless/static renders are deterministic. */
